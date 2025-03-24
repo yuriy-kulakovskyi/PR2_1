@@ -1,0 +1,17 @@
+# ninja log v6
+3	529	1742839054992025131	CMakeFiles/PR2_1.dir/Source.cpp.o	4e2dea81f89e511c
+1	1661	1742839054990643569	lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	f2f68998b318b871
+2	643	1742839054991593568	lib/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	fdbc4bf1dafb280e
+2	1068	1742839054991449116	lib/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	2bd99183c8ddd67a
+7	93	1742839085714366449	lib/libgtest.a	b51b69e6de22023b
+93	127	1742839085800194420	lib/libgtest_main.a	ddd85a377c936fa9
+93	138	1742839085799971847	lib/libgmock.a	c8c98fe986cb389b
+8	661	1742839085715285741	CMakeFiles/PR2_1_tests.dir/tests/tests.cpp.o	27f676b56aa1ff86
+8	701	1742839085715423901	lib/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	d03e5b9424f3946f
+12	39	1742839133548032856	lib/libgmock_main.a	c7b38932d055d06e
+10	508	1742839133546089111	CMakeFiles/PR2_1.dir/classes/IntRange.cpp.o	5ccbf234ba0c8f9a
+12	509	1742839133547893404	CMakeFiles/PR2_1_tests.dir/classes/IntRange.cpp.o	f938946cd9a48a66
+508	636	1742839134043522442	PR2_1	abb9795c7219e147
+509	2347	1742839135881594914	PR2_1_tests	83590598da8f8f7b
+509	2347	1742839135881594914	PR2_1_tests[1]_tests.cmake	83590598da8f8f7b
+509	2347	1742839135881594914	/Users/yura_kulakovskyi/Documents/C++/OOP/PR2/PR2_1/cmake-build-debug/PR2_1_tests[1]_tests.cmake	83590598da8f8f7b

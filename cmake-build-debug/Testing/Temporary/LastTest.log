@@ -1,0 +1,31 @@
+Start testing: Mar 24 19:59 EET
+----------------------------------------------------------
+1/1 Testing: Main_Functions.RangeCheck
+1/1 Test: Main_Functions.RangeCheck
+Command: "/Users/yura_kulakovskyi/Documents/C++/OOP/PR2/PR2_1/cmake-build-debug/PR2_1_tests" "--gtest_filter=Main_Functions.RangeCheck" "--gtest_also_run_disabled_tests"
+Directory: /Users/yura_kulakovskyi/Documents/C++/OOP/PR2/PR2_1/cmake-build-debug
+"Main_Functions.RangeCheck" start time: Mar 24 19:59 EET
+Output:
+----------------------------------------------------------
+Running main() from /Users/yura_kulakovskyi/Documents/C++/OOP/PR2/PR2_1/lib/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = Main_Functions.RangeCheck
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Main_Functions
+[ RUN      ] Main_Functions.RangeCheck
+Error: First must be less than second (1).
+[       OK ] Main_Functions.RangeCheck (0 ms)
+[----------] 1 test from Main_Functions (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Main_Functions.RangeCheck" end time: Mar 24 19:59 EET
+"Main_Functions.RangeCheck" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 24 19:59 EET
